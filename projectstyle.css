@@ -1,0 +1,23 @@
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    </head>
+    <body>
+      <div class="ball square animated bounce infinite"
+    </div>
+      <div class="blue square animated wobble">
+<h1 style="color:white;">I</h1>
+      </div>
+        <div class="green square animated bounce">
+        <h1 style="color:white;">want</h1>
+
+        </div>
+          <div class="red square animated jello">
+<h1 style="color:white">food</h1>
+          </div>
+    </body>
+  </html>
